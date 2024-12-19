@@ -13,9 +13,6 @@ I am a cybersecurity enthusiast and developer from Saudi Arabia with expertise i
 
 
 <p align="left">
-<a href="https://www.twitter.com/cc1a2b" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/cc1a2b?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
     <a href="https://www.github.com/cc1a2b" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cc1a2b?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
