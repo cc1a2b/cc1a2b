@@ -7,7 +7,7 @@ Cybersecurity Specialist & Developer
 I am a cybersecurity enthusiast and developer from Saudi Arabia with expertise in bug bounty hunting, vulnerability scanning, and secure application development. I am passionate about creating innovative tools, contributing to the security community, and advancing the field of cybersecurity in the region. My work focuses on building advanced solutions for system and supporting software development.   
 
 
-* 🌍 I'm based in Saudi Arabia.[🇸🇦]
+* 🌍 I'm based in Saudi Arabia 🇸🇦.
 * 📫 My [LinkedIn](https://www.linkedin.com/in/hussain-alsharman-572948259/)
 * 🌐 Visit my [Personal Blog](https://cc1a2b.github.io/cc1a2b-cv/)
 
