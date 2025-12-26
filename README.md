@@ -63,14 +63,29 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=cc1a2b&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc1a2b&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cc1a2b&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
 
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-statsfork.vercel.app/api?username=cc1a2b&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000" />
+
+  <!-- Top Languages -->
+  <img width="49%" src="https://github-readme-statsfork.vercel.app/api/top-langs/?username=cc1a2b&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
+
+  <!-- Streak Stats -->
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=cc1a2b&theme=dark&hide_border=true&background=00000000" />
+
+  <br><br>
   <b>Top Repositories</b>
+  <br><br>
 
-  <div width="100%" align="center"><a href="https://github.com/cc1a2b/penhunter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cc1a2b&repo=penhunter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/cc1a2b/jshunter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=cc1a2b&repo=jshunter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
+  <!-- Repo Pins -->
+  <div align="center">
+    <a href="https://github.com/cc1a2b/penhunter">
+      <img width="45%" src="https://github-readme-statsfork.vercel.app/api/pin/?username=cc1a2b&repo=penhunter&theme=dark&hide_border=true" />
+    </a>
+    <a href="https://github.com/cc1a2b/jshunter">
+      <img width="45%" src="https://github-readme-statsfork.vercel.app/api/pin/?username=cc1a2b&repo=jshunter&theme=dark&hide_border=true" />
+    </a>
+  </div>
 
   <br>
   <br /><br /><br /><br />
