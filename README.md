@@ -70,8 +70,6 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
   <!-- Top Languages -->
   <img width="49%" src="https://github-readme-statsfork.vercel.app/api/top-langs/?username=cc1a2b&layout=compact&theme=dark&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" />
 
-  <!-- Streak Stats -->
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com?user=cc1a2b&theme=dark&hide_border=true&background=00000000" />
 
   <br><br>
   <b>Top Repositories</b>
