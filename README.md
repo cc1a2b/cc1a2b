@@ -56,7 +56,7 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 ### Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=cc1a2b&only=Stars,Followers,Commits,Repositories,PullRequest)](https://www.buymeacoffee.com/cc1a2b)
+[![trophy](https://github-trophies.vercel.app/?username=cc1a2b&theme=onedark&only=Stars,Followers,Commits,Repositories,PullRequest)](https://www.buymeacoffee.com/cc1a2b)
 
 
 ### Stats
