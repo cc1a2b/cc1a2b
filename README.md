@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hussain.
 ==================================================================================================================
 
-Cybersecurity Specialist & Developer  
+Software Engineer & Cybersecurity Researcher  
 -------------------------------------
 
-I am a cybersecurity enthusiast and developer from Saudi Arabia with expertise in bug bounty hunting, vulnerability scanning, and secure application development. I am passionate about creating innovative tools, contributing to the security community, and advancing the field of cybersecurity in the region. My work focuses on building advanced solutions for system and supporting software development.   
+I am a software engineer and cybersecurity researcher from Saudi Arabia, specializing in vulnerability discovery, bug bounty operations, and secure application engineering. My work centers on developing high-performance tools, conducting advanced security research, and building resilient systems. I focus on offensive security techniques, scalable software architecture, and delivering practical solutions that enhance security posture and system reliability.
 
 
 * 🌍 I'm based in Saudi Arabia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/2560px-Flag_of_Saudi_Arabia.svg.png" alt="Saudi Arabia Flag" width="20"/>
