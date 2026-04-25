@@ -30,7 +30,7 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,python,kotlin,js,php,go,ts,nodejs,graphql,mongodb,django,mysql,html,css,figma&perline=15" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,go,ts,nodejs,dart,graphql,mongodb,django,mysql,html,css&perline=15" alt="Skills" />
   </a>
 </p>
 
