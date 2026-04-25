@@ -30,15 +30,21 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,go,ts,nodejs,dart,graphql,mongodb,django,mysql,html,css&perline=15" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,shell,js,go,ts,nodejs,dart,graphql,mongodb,django,mysql,html,css&perline=15" alt="Skills" />
   </a>
 </p>
 
 ### Socials
 
-<p align="left">
-  <a href="https://www.twitter.com/cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>&nbsp;<a href="https://www.github.com/cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>&nbsp;<a href="http://www.instagram.com/cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;<a href="https://www.linkedin.com/in/hussain-alsharman-572948259/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;<a href="http://www.medium.com/@cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://www.twitter.com/cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a></td>
+    <td><a href="https://www.github.com/cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a></td>
+    <td><a href="http://www.instagram.com/cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a></td>
+    <td><a href="https://www.linkedin.com/in/hussain-alsharman/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a></td>
+    <td><a href="http://www.medium.com/@cc1a2b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" /></a></td>
+  </tr>
+</table>
 
 ### Trophies
 
