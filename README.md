@@ -36,7 +36,7 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 ### Socials
 
-[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://www.x.com/cc1a2b) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/cc1a2b) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](http://www.instagram.com/cc1a2b) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-alsharman-572948259/) [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](http://www.medium.com/@cc1a2b)
+[![Twitter](https://img.shields.io/badge/-X-000000?style=flat&logoColor=white)](https://www.x.com/cc1a2b) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://www.github.com/cc1a2b) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](http://www.instagram.com/cc1a2b) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-alsharman-572948259/) [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](http://www.medium.com/@cc1a2b)
 
 ### Trophies
 
