@@ -7,7 +7,7 @@ Software Engineer & Cybersecurity Researcher
 I am a software engineer and cybersecurity researcher from Saudi Arabia, specializing in vulnerability discovery, bug bounty operations, and secure application engineering. My work centers on developing high-performance tools, conducting advanced security research, and building resilient systems. I focus on offensive security techniques, scalable software architecture, and delivering practical solutions that enhance security posture and system reliability.
 
 
-* 🌍 I'm based in Saudi Arabia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/2560px-Flag_of_Saudi_Arabia.svg.png" alt="Saudi Arabia Flag" width="20"/>
+* 🌍 I'm based in Saudi Arabia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png" alt="Saudi Arabia Flag" width="20"/>
 
 * 📫 My [LinkedIn](https://www.linkedin.com/in/hussain-alsharman-572948259/)
 * 🌐 Visit my [Personal Blog](https://cc1a2b.github.io/cc1a2b-cv/)
@@ -40,7 +40,7 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
 
 ### Trophies
 
-[![trophy](https://github-trophies.vercel.app/?username=cc1a2b&theme=darkhub&only=Stars,Followers,Commits,PullRequest&row=1)](https://www.buymeacoffee.com/cc1a2b)
+[![trophy](https://github-trophies.vercel.app/?username=cc1a2b&theme=darkhub&only=Stars,Followers,Commits,PullRequest&row=1)](https://github.com/cc1a2b)
 
 
 ### Stats
@@ -68,9 +68,5 @@ src="https://wakatime.com/badge/user/7b10be81-8ebd-4223-abbb-5f0b918e7fd4.svg"/>
       <img width="45%" src="https://github-readme-statsfork.vercel.app/api/pin/?username=cc1a2b&repo=jshunter&theme=dark&hide_border=true" />
     </a>
   </div>
-
-  <br>
-  <br /><br /><br /><br />
-  <a href="https://www.buymeacoffee.com/cc1a2b"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
