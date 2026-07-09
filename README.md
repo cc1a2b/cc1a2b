@@ -7,10 +7,10 @@ Software Engineer & Cybersecurity Researcher
 I am a software engineer and cybersecurity researcher from Saudi Arabia, specializing in vulnerability discovery, bug bounty operations, and secure application engineering. My work centers on developing high-performance tools, conducting advanced security research, and building resilient systems. I focus on offensive security techniques, scalable software architecture, and delivering practical solutions that enhance security posture and system reliability.
 
 
-* 🌍 I'm based in Saudi Arabia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png" alt="Saudi Arabia Flag" width="20"/>
+* I'm based in Saudi Arabia <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png" alt="Saudi Arabia Flag" width="20"/>
 
-* 📫 My [LinkedIn](https://www.linkedin.com/in/hussain-alsharman-572948259/)
-* 🌐 Visit my [Personal Blog](https://cc1a2b.github.io/cc1a2b-cv/)
+* My [LinkedIn](https://www.linkedin.com/in/hussain-alsharman-572948259/)
+* Visit my [Personal Blog](https://cc1a2b.github.io/cc1a2b-cv/)
 
 
 <p align="left">
